@@ -10,7 +10,7 @@
 
 - name: "test"
   service: test
-  command: ./scri./scripts/cipts/ci
+  command: ./scri./scripts/cipts/cinm
 
 - name: "integration tests"
   service: integration
